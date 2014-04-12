@@ -22,7 +22,16 @@ lat.ms/cir-borderfence
 Dennis - Where are US Mappers: 
 [HDYC - Find out where a OSM user edits](http://hdyc.neis-one.org/)
 
+
+Paul Mach - Slide
+[Slides, PDF](https://www.dropbox.com/s/iuqgvcjvnt8ao2f/SOTMUS-2014%20-%20Slide%20Slides.pdf)
 [Strava Labs](http://labs.strava.com/slide/)
 
 Introduction to OpenStreetMap by Mele Sax-Barnett
 [Slides, PDF](http://pdxmele.com/intro-osm/OSM_intro_workshop.pdf)
+
+Implementing Change in OpenStreetMap - John Firebaugh
+[NodeConfEU 2013 - Building Compassionate Communities in Tech](http://www.joyent.com/developers/videos/nodeconfeu-2013-building-compassionate-communities-in-tech)
+
+Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
+[NYC Local Law 11](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml)
