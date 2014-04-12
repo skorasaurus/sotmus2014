@@ -42,6 +42,7 @@ Implementing Change in OpenStreetMap - John Firebaugh
 
 [NodeConfEU 2013 - Building Compassionate Communities in Tech](http://www.joyent.com/developers/videos/nodeconfeu-2013-building-compassionate-communities-in-tech)
 
+[slides](https://speakerdeck.com/jfirebaugh/implementing-change-in-openstreetmap), [notes](https://gist.github.com/jfirebaugh/10553476)
 
 
 Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
