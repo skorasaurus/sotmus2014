@@ -1,8 +1,15 @@
 
 Links for slides, things mentioned in presentations. 
 
-github presentation
+---
+
+
+Make Maps Better, Together: Collaborative Mapping the Github Way - Mike Skalnik
+
+
 [slides](https://speakerdeck.com/skalnik/make-maps-better-together)
+
+---
 
 Open Tools and Data for the News - Ken Schwencke
 
@@ -19,23 +26,30 @@ Open Tools and Data for the News - Ken Schwencke
 [Import Proposal for LA County Addresses and Buildings](http://wiki.openstreetmap.org/wiki/Import/Catalogue/Los_Angeles_County_Buildings)
 
 
-
-Dennis - Where are US Mappers: 
+---
+Where are US Mappers  - Dennis Zielstra
 
 
 [HDYC - Find out where a OSM user edits](http://hdyc.neis-one.org/)
 
+---
 
 Paul Mach - Slide
 
 
 [Slides, PDF](https://www.dropbox.com/s/iuqgvcjvnt8ao2f/SOTMUS-2014%20-%20Slide%20Slides.pdf)
+
+
 [Strava Labs](http://labs.strava.com/slide/)
 
-Introduction to OpenStreetMap by Mele Sax-Barnett
+---
+
+Introduction to OpenStreetMap - Mele Sax-Barnett
 
 
 [Slides, PDF](http://pdxmele.com/intro-osm/OSM_intro_workshop.pdf)
+
+---
 
 Implementing Change in OpenStreetMap - John Firebaugh
 
@@ -44,8 +58,19 @@ Implementing Change in OpenStreetMap - John Firebaugh
 
 [slides](https://speakerdeck.com/jfirebaugh/implementing-change-in-openstreetmap), [notes](https://gist.github.com/jfirebaugh/10553476)
 
+---
 
 Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
 
 
+[Slides](https://docs.google.com/presentation/d/1J3NkOv0PRGPBqdLNbB6JZd8qM1Yda_YlUiCvvxqpVtI/edit#slide=id.p)
+
 [NYC Local Law 11](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml)
+
+
+
+---
+Simulating Cities with OpenStreetMap and OpenTripPlanner Analysis - Kevin Webb
+
+
+[Slides](https://www.dropbox.com/s/ojb4wa28rqv2of7/sotm_modeling.pdf)
