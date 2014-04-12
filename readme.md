@@ -22,3 +22,4 @@ lat.ms/cir-borderfence
 Dennis - Where are US Mappers: 
 [HDYC - Find out where a OSM user edits](http://hdyc.neis-one.org/)
 
+[Strava Labs](http://labs.strava.com/slide/)
