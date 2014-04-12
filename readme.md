@@ -17,9 +17,8 @@ lat.ms/cir-borderfence
 [LA times' Map Style for Tilemill](https://github.com/datadesk/osm-quiet-la)
 
 
-
 [Import Proposal for LA County Addresses and Buildings](http://wiki.openstreetmap.org/wiki/Import/Catalogue/Los_Angeles_County_Buildings)
 
-\proposed building import 
-maproulette
+Dennis - Where are US Mappers: 
+[HDYC - Find out where a OSM user edits](http://hdyc.neis-one.org/)
 
