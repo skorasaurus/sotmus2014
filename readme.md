@@ -13,5 +13,8 @@ lat.ms/cir-borderfence
 
 lat.ms/sotm2014
 
+[Import Proposal for LA County Addresses and Buildings](http://wiki.openstreetmap.org/wiki/Import/Catalogue/Los_Angeles_County_Buildings)
+
+\proposed building import 
 maproulette
 
