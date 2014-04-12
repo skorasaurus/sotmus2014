@@ -2,7 +2,7 @@
 Links for slides, things mentioned in presentations. 
 
 github presentation
-https://speakerdeck.com/skalnik/make-maps-better-together
+[slides](https://speakerdeck.com/skalnik/make-maps-better-together)
 
 LA Times presentation
 [slides](lat.ms/sotm2014)
@@ -23,3 +23,6 @@ Dennis - Where are US Mappers:
 [HDYC - Find out where a OSM user edits](http://hdyc.neis-one.org/)
 
 [Strava Labs](http://labs.strava.com/slide/)
+
+Introduction to OpenStreetMap by Mele Sax-Barnett
+[Slides, PDF](http://pdxmele.com/intro-osm/OSM_intro_workshop.pdf)
