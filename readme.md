@@ -74,3 +74,9 @@ Simulating Cities with OpenStreetMap and OpenTripPlanner Analysis - Kevin Webb
 
 
 [Slides](https://www.dropbox.com/s/ojb4wa28rqv2of7/sotm_modeling.pdf)
+
+----
+CartoDrop: secure mapping and reporting over Tor - Nick Dorion
+
+
+[Slides](http://www.slideshare.net/NicholasDoiron/cartodrop-secure-mapping-and-reporting-over-tor)
