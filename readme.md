@@ -125,3 +125,10 @@ Open Data for Resilience: OSM for Disaster Risk Management - John Crowley
 [Open Data for Resilience Initiative, the Field Guide](https://www.gfdrr.org/ODRIFG)
 
 [Open Data for Resilience Initiative by WorldBank, About](https://www.gfdrr.org/opendri)
+
+
+---
+
+Processing OpenStreetMap into Vector Tiles - Dane Springmeyer 
+
+[slides, pdf](https://www.dropbox.com/s/9b15snlzu3r0z5o/sotm-us-2014-dc-springmeyer.pdf)
