@@ -30,6 +30,7 @@ Open Tools and Data for the News - Ken Schwencke
 
 
 ---
+
 Where are US Mappers  - Dennis Zielstra
 
 
@@ -68,10 +69,11 @@ Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
 
 [Slides](https://docs.google.com/presentation/d/1J3NkOv0PRGPBqdLNbB6JZd8qM1Yda_YlUiCvvxqpVtI/edit#slide=id.p)
 
-[NYC Local Law 11](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml
+[NYC Local Law 11](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml)
 
 
 ---
+
 Meeting in Person: why, How, and What's Next - Kathleen Danielson 
 
 
@@ -85,6 +87,7 @@ Simulating Cities with OpenStreetMap and OpenTripPlanner Analysis - Kevin Webb
 [Slides](https://www.dropbox.com/s/ojb4wa28rqv2of7/sotm_modeling.pdf)
 
 ----
+
 CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 
 
