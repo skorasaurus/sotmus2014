@@ -137,3 +137,10 @@ Open Data for Resilience: OSM for Disaster Risk Management - John Crowley
 Processing OpenStreetMap into Vector Tiles - Dane Springmeyer 
 
 [slides, pdf](https://www.dropbox.com/s/9b15snlzu3r0z5o/sotm-us-2014-dc-springmeyer.pdf)
+
+---
+
+Optimizing the osm2pgsql/mapnik toolchain - Paul Norman
+
+[slides, pdf](http://www.paulnorman.ca/files/osm2pgsql-performance.pdf)
+
