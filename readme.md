@@ -92,7 +92,7 @@ CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
 
 ---
-- Sterling Quinn
+Capturing Local Knowledge of Urban Food Resources Using OSM - Sterling Quinn
 
 
-Philly Fresh Food Map 
+[Philly Fresh Food Map](http://www.geovista.psu.edu/phillyfood/)
