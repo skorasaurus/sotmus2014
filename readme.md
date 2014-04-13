@@ -144,3 +144,9 @@ Optimizing the osm2pgsql/mapnik toolchain - Paul Norman
 
 [slides, pdf](http://www.paulnorman.ca/files/osm2pgsql-performance.pdf)
 
+---
+
+Inside the Eye of a HOT Activiation - Dale Kunce 
+
+[slides](http://americanredcross.github.io/presentations/SOTMUS_2014/)
+
