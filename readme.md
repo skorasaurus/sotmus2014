@@ -37,7 +37,7 @@ Where are US Mappers  - Dennis Zielstra
 
 ---
 
-Paul Mach - Slide
+Slide: Auto-drawing geometry to remove the pains of map tracing - Paul Mach
 
 
 [Slides, PDF](https://www.dropbox.com/s/iuqgvcjvnt8ao2f/SOTMUS-2014%20-%20Slide%20Slides.pdf)
@@ -68,11 +68,17 @@ Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
 
 [Slides](https://docs.google.com/presentation/d/1J3NkOv0PRGPBqdLNbB6JZd8qM1Yda_YlUiCvvxqpVtI/edit#slide=id.p)
 
-[NYC Local Law 11](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml)
-
+[NYC Local Law 11](http://www.nyc.gov/html/doitt/html/open/local_law_11_2012.shtml
 
 
 ---
+Meeting in Person: why, How, and What's Next - Kathleen Danielson 
+
+
+[Notes/commentry on presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
+
+---
+
 Simulating Cities with OpenStreetMap and OpenTripPlanner Analysis - Kevin Webb
 
 
@@ -96,3 +102,8 @@ Capturing Local Knowledge of Urban Food Resources Using OSM - Sterling Quinn
 
 
 [Philly Fresh Food Map](http://www.geovista.psu.edu/phillyfood/)
+
+---
+US Bicycle Route System Mapping - Steve All 
+
+[National Corridor Plan of US Bicycle Routes](http://www.adventurecycling.org/routes-and-maps/us-bicycle-route-system/national-corridor-plan/)
