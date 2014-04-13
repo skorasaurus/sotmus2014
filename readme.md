@@ -95,7 +95,10 @@ CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 
 ---
 Start your own maptime! - Lyzi Diamond
+
+
 [Slides](https://docs.google.com/presentation/d/1Uge9O_R_T8pFbN4szxQ4iBQxpskeWT183IBvqtnt1DE/edit#slide=id.p15)
+
 ---
 
 [benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
