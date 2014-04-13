@@ -117,3 +117,8 @@ US Bicycle Route System Mapping - Steve All
 
 [National Corridor Plan of US Bicycle Routes](http://www.adventurecycling.org/routes-and-maps/us-bicycle-route-system/national-corridor-plan/)
 
+---
+
+Open Data for Resilience: OSM for Disaster Risk Management - John Crowley 
+
+[Open Data for Resilience Initiative by WorldBank](https://www.gfdrr.org/opendri)
