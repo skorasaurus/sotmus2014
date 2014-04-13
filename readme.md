@@ -90,3 +90,9 @@ CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 
 ---
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
+
+---
+- Sterling Quinn
+
+
+Philly Fresh Food Map 
