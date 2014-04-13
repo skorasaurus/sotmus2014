@@ -94,6 +94,8 @@ CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 [Slides](http://www.slideshare.net/NicholasDoiron/cartodrop-secure-mapping-and-reporting-over-tor)
 
 ---
+
+
 Start your own maptime! - Lyzi Diamond
 
 
