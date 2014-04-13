@@ -121,4 +121,7 @@ US Bicycle Route System Mapping - Steve All
 
 Open Data for Resilience: OSM for Disaster Risk Management - John Crowley 
 
-[Open Data for Resilience Initiative by WorldBank](https://www.gfdrr.org/opendri)
+
+[Open Data for Resilience Initiative, the Field Guide](https://www.gfdrr.org/ODRIFG)
+
+[Open Data for Resilience Initiative by WorldBank, About](https://www.gfdrr.org/opendri)
