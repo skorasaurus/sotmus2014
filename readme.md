@@ -9,6 +9,9 @@ Make Maps Better, Together: Collaborative Mapping the Github Way - Mike Skalnik
 
 [slides](https://speakerdeck.com/skalnik/make-maps-better-together)
 
+[Ben Balter's list of DC bars w/ wifi (mentioned in skalnik's talk)](https://github.com/benbalter/dc-wifi-social)
+
+
 ---
 
 Open Tools and Data for the News - Ken Schwencke
@@ -80,3 +83,10 @@ CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 
 
 [Slides](http://www.slideshare.net/NicholasDoiron/cartodrop-secure-mapping-and-reporting-over-tor)
+
+---
+
+[benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
+
+---
+[HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
