@@ -106,15 +106,18 @@ Start your own maptime! - Lyzi Diamond
 [benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
 
 ---
+
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
 
 ---
+
 Capturing Local Knowledge of Urban Food Resources Using OSM - Sterling Quinn
 
 
 [Philly Fresh Food Map](http://www.geovista.psu.edu/phillyfood/)
 
 ---
+
 US Bicycle Route System Mapping - Steve All 
 
 [National Corridor Plan of US Bicycle Routes](http://www.adventurecycling.org/routes-and-maps/us-bicycle-route-system/national-corridor-plan/)
