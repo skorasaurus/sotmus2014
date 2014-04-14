@@ -107,7 +107,8 @@ Start your own maptime! - Lyzi Diamond
 
 [benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
 
----
+
+[benbhsu's notes/diary from Day Two at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21653)---
 
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
 
