@@ -152,6 +152,14 @@ Inside the Eye of a HOT Activiation - Dale Kunce
 
 ---
 
+Geo Tools For First Responders - Richard Welty
+
+[slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014)
+
+---
+
+
+
 I imported Chicago - Ian Dees 
 
 
