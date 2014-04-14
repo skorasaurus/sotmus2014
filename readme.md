@@ -77,7 +77,9 @@ Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
 Meeting in Person: why, How, and What's Next - Kathleen Danielson 
 
 
-[Notes/commentry on presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
+[slides](https://speakerdeck.com/kathleenld/meeting-in-person-why-how-and-whats-next)
+
+[Notes/commentry on the presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
 
 ---
 
