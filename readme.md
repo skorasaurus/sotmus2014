@@ -111,7 +111,14 @@ Start your own maptime! - Lyzi Diamond
 
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
 
+
 ---
+
+[A. Wiseman's blog post on converting OSM Data into Shapefiles using QGIS and JOSM](http://everygoodusernameistaken.tumblr.com/post/52805666711/exporting-openstreetmap-roads-to-shapefile)
+
+---
+
+
 
 Capturing Local Knowledge of Urban Food Resources Using OSM - Sterling Quinn
 
