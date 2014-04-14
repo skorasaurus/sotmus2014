@@ -166,6 +166,13 @@ Geo Tools For First Responders - Richard Welty
 
 [slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014)
 
+
+---
+
+Running Your Own Rendering Infrastructure - Seth Fitzsimmons
+
+[slides](https://speakerdeck.com/mojodna/running-your-own-rendering-infrastructure)
+
 ---
 
 
