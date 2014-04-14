@@ -79,10 +79,6 @@ Meeting in Person: why, How, and What's Next - Kathleen Danielson
 
 [Slides](https://speakerdeck.com/kathleenld/meeting-in-person-why-how-and-whats-next)
 
-[slides](https://speakerdeck.com/kathleenld/meeting-in-person-why-how-and-whats-next)
-
-[Notes/commentry on the presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
-
 ---
 
 Simulating Cities with OpenStreetMap and OpenTripPlanner Analysis - Kevin Webb
