@@ -113,6 +113,11 @@ Start your own maptime! - Lyzi Diamond
 
 ---
 
+
+Birds of a Feather - Exporting OSM into GIS - Andrew Wiseman
+
+[Notes](https://gist.github.com/aawiseman/10679009)
+
 [A. Wiseman's blog post on converting OSM Data into Shapefiles using QGIS and JOSM](http://everygoodusernameistaken.tumblr.com/post/52805666711/exporting-openstreetmap-roads-to-shapefile)
 
 ---
