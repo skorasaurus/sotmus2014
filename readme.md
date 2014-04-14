@@ -1,4 +1,3 @@
-
 Links for slides, things mentioned in presentations. 
 
 ---
@@ -62,6 +61,8 @@ Implementing Change in OpenStreetMap - John Firebaugh
 
 [slides](https://speakerdeck.com/jfirebaugh/implementing-change-in-openstreetmap), [notes](https://gist.github.com/jfirebaugh/10553476)
 
+[Notes/commentry on presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
+
 ---
 
 Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
@@ -76,8 +77,7 @@ Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
 
 Meeting in Person: why, How, and What's Next - Kathleen Danielson 
 
-
-[Notes/commentry on presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
+[Slides](https://speakerdeck.com/kathleenld/meeting-in-person-why-how-and-whats-next)
 
 ---
 
@@ -105,11 +105,24 @@ Start your own maptime! - Lyzi Diamond
 
 [benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
 
----
+
+[benbhsu's notes/diary from Day Two at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21653)---
 
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
 
+
 ---
+
+
+Birds of a Feather - Exporting OSM into GIS - Andrew Wiseman
+
+[Notes](https://gist.github.com/aawiseman/10679009)
+
+[A. Wiseman's blog post on converting OSM Data into Shapefiles using QGIS and JOSM](http://everygoodusernameistaken.tumblr.com/post/52805666711/exporting-openstreetmap-roads-to-shapefile)
+
+---
+
+
 
 Capturing Local Knowledge of Urban Food Resources Using OSM - Sterling Quinn
 
@@ -151,6 +164,21 @@ Inside the Eye of a HOT Activiation - Dale Kunce
 [slides](http://americanredcross.github.io/presentations/SOTMUS_2014/)
 
 ---
+
+Geo Tools For First Responders - Richard Welty
+
+[slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014)
+
+
+---
+
+Running Your Own Rendering Infrastructure - Seth Fitzsimmons
+
+[slides](https://speakerdeck.com/mojodna/running-your-own-rendering-infrastructure)
+
+---
+
+
 
 I imported Chicago - Ian Dees 
 
