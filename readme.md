@@ -1,4 +1,3 @@
-
 Links for slides, things mentioned in presentations. 
 
 ---
@@ -62,6 +61,8 @@ Implementing Change in OpenStreetMap - John Firebaugh
 
 [slides](https://speakerdeck.com/jfirebaugh/implementing-change-in-openstreetmap), [notes](https://gist.github.com/jfirebaugh/10553476)
 
+[Notes/commentry on presentation from Heather Leeson](http://textontechs.com/2014/04/state-of-the-map-us-building-community/)
+
 ---
 
 Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
@@ -76,6 +77,7 @@ Engaging the OSM Community: A NYC Government Perspective - Colin Reilly
 
 Meeting in Person: why, How, and What's Next - Kathleen Danielson 
 
+[Slides](https://speakerdeck.com/kathleenld/meeting-in-person-why-how-and-whats-next)
 
 [slides](https://speakerdeck.com/kathleenld/meeting-in-person-why-how-and-whats-next)
 
