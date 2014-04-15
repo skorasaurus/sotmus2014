@@ -92,7 +92,13 @@ Simulating Cities with OpenStreetMap and OpenTripPlanner Analysis - Kevin Webb
 
 [Slides](https://www.dropbox.com/s/ojb4wa28rqv2of7/sotm_modeling.pdf)
 
-----
+---
+
+An Approach to OSM Geocoding: From Ships to Apples - Tyler Bell 
+
+[slides](http://www.slideshare.net/TylerBell/osm-geocoding-33554922)
+
+---
 
 CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 
