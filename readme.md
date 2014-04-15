@@ -1,4 +1,8 @@
-Links for slides, URLs mentioned in presentations, Birds in a Feather Sessions, and Lightning talks
+A collection of slides, URLs mentioned in presentations, Birds in a Feather Sessions, and Lightning talks at SOTM-US 2014.
+
+The github repo for this is at: https://github.com/skorasaurus/sotmus2014/  Corrections and additions welcome. 
+
+
 
 Videos available at: [SOTM website](http://stateofthemap.us/schedule/)
 
@@ -143,6 +147,8 @@ Open Data for Resilience: OSM for Disaster Risk Management - John Crowley
 
 
 ---
+
+
 Designing OpenStreetMap - Nicki Dlugash
 
 
