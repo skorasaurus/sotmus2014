@@ -174,6 +174,7 @@ Geo Tools For First Responders - Richard Welty
 
 [slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014)
 
+[Full Slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014-full-version)
 
 ---
 
