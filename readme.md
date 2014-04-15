@@ -201,7 +201,14 @@ Addresses, One County at a Time - Toby Murray
 
 [slides, pdf](https://dl.dropboxusercontent.com/u/1475575/OSM/Addresses_one_county_at_a_time.pdf)
 
-----
+---
+
+Open Data and the City - Renee Sieber
+
+[Quality Evaluations on Canadian OpenStreetMap Data, mentioned in Sieber's presentation (pdf)](http://rose.geog.mcgill.ca/ski/system/files/fm/2014/tenney.pdf)
+
+
+---
 
 Reviews/Recaps:
 
@@ -213,3 +220,7 @@ Reviews/Recaps:
 
 
 [Peter Batty's review of another great State of the Map conference](http://geothought.blogspot.fr/2014/04/report-on-another-great-state-of-map.html)
+
+[Recap from Gretchen Peterson of Boundless](http://boundlessgeo.com/2014/04/state-of-the-map-us/)
+
+[Thoughts from Jacques Tardie](http://jacquestardie.org/State-of-the-Map.html) 
