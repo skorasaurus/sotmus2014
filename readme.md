@@ -1,4 +1,6 @@
-Links for slides, things mentioned in presentations. 
+Links for slides, URLs mentioned in presentations, Birds in a Feather Sessions, and Lightning talks
+
+Videos available at: [SOTM website](http://stateofthemap.us/schedule/)
 
 ---
 
@@ -20,7 +22,7 @@ Open Tools and Data for the News - Ken Schwencke
 
 [LA Times Github repo](github.com/datadesk)
 
-[Blog Post from CIR on the tools they used to map the US/Mexico brder](http://cironline.org/blog/post/surprising-tools-cir-used-map-us-mexico-border-fence-6255)
+[Blog Post from CIR on the tools they used to map the US/Mexico border](http://cironline.org/blog/post/surprising-tools-cir-used-map-us-mexico-border-fence-6255)
 
 [LA times' Map Style for Tilemill](https://github.com/datadesk/osm-quiet-la)
 
@@ -103,11 +105,6 @@ Start your own maptime! - Lyzi Diamond
 
 ---
 
-[benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
-
-
-[benbhsu's notes/diary from Day Two at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21653)---
-
 [HOT's BOF (birds of a feather) session](https://hackpad.com/HOT-BOF-SotM-US-CnlzFvBzbVT)
 
 
@@ -146,6 +143,14 @@ Open Data for Resilience: OSM for Disaster Risk Management - John Crowley
 
 
 ---
+Designing OpenStreetMap - Nicki Dlugash
+
+
+[slides, pdf](http://nickidlugash.com/DesigningOSM.pdf)
+
+[notes, pdf](http://nickidlugash.com/DesigningOSM-notes.pdf)
+
+---
 
 Processing OpenStreetMap into Vector Tiles - Dane Springmeyer 
 
@@ -169,6 +174,7 @@ Geo Tools For First Responders - Richard Welty
 
 [slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014)
 
+[Full Slides](http://www.slideshare.net/nfgusedautoparts/geo-tools-for-first-responders-sotm-us-2014-full-version)
 
 ---
 
@@ -178,9 +184,26 @@ Running Your Own Rendering Infrastructure - Seth Fitzsimmons
 
 ---
 
-
-
 I imported Chicago - Ian Dees 
 
 
 [user testing on osm.org and iD](http://www.smartchicagocollaborative.org/cutgroup-6-openstreetmap-editor/)
+
+---
+
+Addresses, One County at a Time - Toby Murray 
+
+[slides, pdf](https://dl.dropboxusercontent.com/u/1475575/OSM/Addresses_one_county_at_a_time.pdf)
+
+----
+
+Reviews/Recaps:
+
+
+[benbhsu's notes/diary from Day One at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21645)
+
+
+[benbhsu's notes/diary from Day Two at SOTMUS2014](http://www.openstreetmap.org/user/benbhsu/diary/21653)
+
+
+[Peter Batty's review of another great State of the Map conference](http://geothought.blogspot.fr/2014/04/report-on-another-great-state-of-map.html)
