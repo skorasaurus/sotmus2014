@@ -138,6 +138,12 @@ US Bicycle Route System Mapping - Steve All
 
 ---
 
+Building a Community: HOT in Indonesia - Kate Chapman 
+
+[slides](http://www.slideshare.net/wonderchook/building-a-community-humanitarian-openstreetmap-team-in-indonesia-33568195)
+
+---
+
 Open Data for Resilience: OSM for Disaster Risk Management - John Crowley 
 
 
