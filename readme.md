@@ -143,6 +143,14 @@ Open Data for Resilience: OSM for Disaster Risk Management - John Crowley
 
 
 ---
+Designing OpenStreetMap - Nicki Dlugash
+
+
+[slides, pdf](http://nickidlugash.com/DesigningOSM.pdf)
+
+[notes, pdf](http://nickidlugash.com/DesigningOSM-notes.pdf)
+
+---
 
 Processing OpenStreetMap into Vector Tiles - Dane Springmeyer 
 
