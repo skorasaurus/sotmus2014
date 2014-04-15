@@ -1,6 +1,6 @@
 A collection of slides, URLs mentioned in presentations, Birds in a Feather Sessions, and Lightning talks at SOTM-US 2014.
 
-The github repo for this is at: https://github.com/skorasaurus/sotmus2014/  Corrections and additions welcome. 
+The github repo for this is at: [https://github.com/skorasaurus/sotmus2014/](https://github.com/skorasaurus/sotmus2014/)  Corrections and additions welcome. 
 
 
 
