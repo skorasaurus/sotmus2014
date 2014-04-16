@@ -177,6 +177,14 @@ Designing OpenStreetMap - Nicki Dlugash
 
 ---
 
+
+Advanced CartoCSS Techniques - Kate Watkins, Seth Fitzsimmons, and Alan McConchie
+
+[slides](https://speakerdeck.com/mojodna/advanced-cartocss-techniques)
+
+---
+
+
 Processing OpenStreetMap into Vector Tiles - Dane Springmeyer 
 
 [slides, pdf](https://www.dropbox.com/s/9b15snlzu3r0z5o/sotm-us-2014-dc-springmeyer.pdf)
