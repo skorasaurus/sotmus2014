@@ -107,6 +107,13 @@ CartoDrop: secure mapping and reporting over Tor - Nick Dorion
 
 ---
 
+OpenDroneMap - Stephen Mather 
+
+[slides](http://smathermather.github.io/OpenDroneMap/)
+
+[Github Repo](https://github.com/OpenDroneMap/OpenDroneMap-Intro)
+
+---
 
 Start your own maptime! - Lyzi Diamond
 
