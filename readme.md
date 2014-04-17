@@ -22,9 +22,9 @@ Make Maps Better, Together: Collaborative Mapping the Github Way - Mike Skalnik
 Open Tools and Data for the News - Ken Schwencke
 
 
-[Slides](lat.ms/sotm2014)
+[Slides](http://lat.ms/sotm2014)
 
-[LA Times Github repo](github.com/datadesk)
+[LA Times Github repo](http://github.com/datadesk)
 
 [Blog Post from CIR on the tools they used to map the US/Mexico border](http://cironline.org/blog/post/surprising-tools-cir-used-map-us-mexico-border-fence-6255)
 
