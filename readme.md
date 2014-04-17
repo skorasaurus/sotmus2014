@@ -251,3 +251,5 @@ Reviews/Recaps:
 [Recap from Gretchen Peterson of Boundless](http://boundlessgeo.com/2014/04/state-of-the-map-us/)
 
 [Thoughts from Jacques Tardie](http://jacquestardie.org/State-of-the-Map.html) 
+
+What I learned at SOTM-US from Jordan Roussaeu, [Part 1](http://rousseau.io/2014/04/16/state-of-the-map-us-part-1/) and [Part 2](http://rousseau.io/2014/04/17/state-of-the-map-us-part-2/)
