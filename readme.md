@@ -36,8 +36,9 @@ Open Tools and Data for the News - Ken Schwencke
 
 ---
 
-Where are US Mappers  - Dennis Zielstra
+Where Are the US Mappers At? Contributor and Data Development in US Urbanized Area  - Dennis Zielstra and Pascal Neis
 
+[slides](http://www.slideshare.net/denniszielstra/where-are-the-us-mappers-at-contributor-and-data-development-in-us-urbanized-areas)
 
 [HDYC - Find out where a OSM user edits](http://hdyc.neis-one.org/)
 
